@@ -2,11 +2,11 @@
 
 ## GitHub Provided Labs
 
-GitHub Learning Lab - https://lab.github.com/
+GitHub Learning Lab - https://github.com/apps/github-learning-lab
 
-Introduction to GitHub - https://lab.github.com/githubtraining/introduction-to-github
+Introduction to GitHub - https://github.com/skills/introduction-to-github
 
-Using Markdown in GitHub - https://lab.github.com/githubtraining/communicating-using-markdown 
+GitHub Skills - https://skills.github.com/ 
 
 ## SSH Keys and Personal Access Tokens
 
@@ -16,7 +16,7 @@ Personal Access Tokens - https://help.github.com/en/github/authenticating-to-git
 
 ## Managing Access in Repositories
 
-Managing Access: TBD
+Managing Access: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/managing-repository-settings/managing-teams-and-people-with-access-to-your-repository
 
 ## Submitting a Support Ticket
 
